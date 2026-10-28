@@ -1,4 +1,5 @@
 # FleetCore API
+Sebastian Maz - Clan Centurion NODEJS PM
 
 FleetCore is a REST API for managing a vehicle fleet and its
 maintenance. It is built with NestJS and TypeScript and uses PostgreSQL
